@@ -44,7 +44,7 @@ body, html {
   position: relative;
   opacity: .75;
   background-position: center;
-  background-size: height 100%;
+  background-size: 100% cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
 }
