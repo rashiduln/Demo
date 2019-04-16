@@ -89,4 +89,18 @@ section {
   padding: 0;
   text-align: center;
   }
+  img, table, iframe, video, audio, input, textarea{
+		max-width: 100%; 
+	}
+	.parallax1 { 
+		background-size: 100% !important;
+		background-color: #000000;
+	}
+  
+  .dark { 
+		padding: 50px 20px;
+		background-color: #323232; 
+		max-width: calc(95% - 20px);
+		margin: auto;
+	}
 }
